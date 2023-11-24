@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LovaharisoaFelicite
-- 👀 I’m interested in in web development, machine learning, and open-source projects.
-- 🌱 I’m currently learning React.js and Php with the framework Laravel
+- 👀 I’m interested in in web development and IT
+- 🌱 I’m currently learning "Network and Computer Systems" and "Programming"
 - 💞️ I’m looking to collaborate on open-source web development projects
 - 📫 How to reach me ramiadamananalovaharisoa@gmail.com or connect with me on RAMIADAMANANA Lovaharisoa Félicité(www.linkedin.com/in/félicité-591aba291)."
 
