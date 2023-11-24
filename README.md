@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LovaharisoaFelicite
 - 👀 I’m interested in web development and IT
-- 🌱 I’m currently learning "Network and Computer Systems" and "Programming"
+- 🌱 I’m currently learning Programming, Network and Computer Systems
 - 💞️ I’m looking to collaborate on open-source web development projects.
 
 <!---
