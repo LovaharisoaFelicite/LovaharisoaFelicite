@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LovaharisoaFelicite
-- 👀 I’m interested in web development and IT
+- 👀 I’m interested in IT project and cybersecurity.
 - 🌱 I’m currently learning Programming, Network and Computer Systems
-- 💞️ I’m looking to collaborate on open-source web development projects.
+- 💞️ I’m looking to collaborate on open-source projects.
 
 <!---
 LovaharisoaFelicite/LovaharisoaFelicite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
